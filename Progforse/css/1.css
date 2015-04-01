@@ -1,0 +1,27 @@
+﻿#pos1
+{
+position:absolute;
+top:10%;
+left:10%;
+padding:5mm;
+width:80%;
+height: 40%;
+border:1mm solid;
+background-color:grey;
+}
+
+td select, td input {	font-size: 8mm;
+  width: 100mm;
+}
+
+
+
+.error input {	font-size: 8mm;
+  border: 1px solid red;
+}
+.error {
+	font-size: 8mm;
+  color: red;
+}
+H1 {text-align:  center; font-family: "RobotoRegular", sans-serif; font-size: 8mm;color: #0033FF;}
+.Bt {text-align:  center; font-family: "RobotoRegular", sans-serif; font-size: 8mm;color: #0033FF;}
